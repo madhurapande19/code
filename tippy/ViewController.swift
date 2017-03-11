@@ -33,6 +33,7 @@ class ViewController: UIViewController {
     }
     @IBAction func calculateTip(_ sender: Any) {
         
+        print("hello")
         let tipPercent = [0.18,0.2,0.25]
         
         let bill = Double(billField.text!) ?? 0
