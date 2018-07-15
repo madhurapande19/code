@@ -1,5 +1,5 @@
 # code
-This is a simple Tip Calculator.
+This is a simple Tip Calculator implemented in Swift. The screenshot of the output:
 
 
 
